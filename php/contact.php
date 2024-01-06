@@ -2,7 +2,7 @@
     $array = array("firstname" => "", "name" => "", "email" => "", "phone" => "", "message" => "",
     "firstnameError" => "", "nameError" => "", "emailError" => "", "phoneError" => "", "messageError" => "",
     "isSuccess" => false);
-    $emailTo = "contact@gedeonkoumako.com";
+    $emailTo = "koumakofemi@gmail.com";
     if($_SERVER["REQUEST_METHOD"]=="POST"){
         $array["firstname"] = verifyInput($_POST["firstname"]);
         $array["name"] = verifyInput($_POST["name"]);
