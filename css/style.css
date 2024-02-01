@@ -125,7 +125,7 @@ ul{
 
 .profil-picture {
     text-align: center;
-    margin: 0px auto 30px;
+    margin: 0 auto 30px;
 }
 
 #about .heading h1{
@@ -422,7 +422,7 @@ footer h5{
 
 #contact-form input[type="submit"]
 {
-    margin:40px auto 0px;
+    margin:40px auto 0;
     display: block;
 }
 
