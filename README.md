@@ -1,1 +1,1 @@
-Portofolio: https://jimmykoumako.github.io/myportofoliowebsite/
+Portofolio: https://jimmykoumako.github.io/myportfoliowebsite/
